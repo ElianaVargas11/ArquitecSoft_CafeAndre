@@ -33,5 +33,17 @@ genere reportes estadísticos de cada producto y de las ventas  realizadas por i
 - MySql para diseño de la base de datos.
 - Spring Boot 
 
+### LISTADO DE REQUERIMIENTOS CON HISTORIAS DE USUARIOS
+
+| Código | RF1 |
+| ------------- | ------------- |
+| Nombre  | Inicio de Sesion de la aplicación  |
+| Prioridad  | Alta/Escencial |
+| Descripción  | Inicio de sesion del software para su ingreso al sistema por medio de usuario y contraseña validando datos de ingreso. |
 
 
+| Código | RF2 |
+| ------------- | ------------- |
+| Nombre  | Registro de Usuarios  |
+| Prioridad  | Alta/Escencial |
+| Descripción  | El software almacenara los datos de los usuarios que están autorizados para manipuar (administrado,cajero). |
