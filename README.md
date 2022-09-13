@@ -47,3 +47,55 @@ genere reportes estadísticos de cada producto y de las ventas  realizadas por i
 | Nombre  | Registro de Usuarios  |
 | Prioridad  | Alta/Escencial |
 | Descripción  | El software almacenara los datos de los usuarios que están autorizados para manipuar (administrado,cajero). |
+
+
+| Código | RF3 |
+| ------------- | ------------- |
+| Nombre  | Registro de Ventas  |
+| Prioridad  | Alta/Escencial |
+| Descripción  | Se realizará el registro de las ventas que se realicen por el servicio de preparación de refrigerio, bebida, postres u otros. Se detallara el producto, cantidad y el total. |
+
+
+| Código | RF4 |
+| ------------- | ------------- |
+| Nombre  | Registro de Pedido |
+| Prioridad  | Alta/Escencial |
+| Descripción  | El software almacenara el pedido y solicitara el cliente (Administrador, Cajero).Los datos de entrada se ingresara el nombre producto, cantidad y precio.|
+
+
+| Código | RF5 |
+| ------------- | ------------- |
+| Nombre  | Registro de Menu |
+| Prioridad  | Medio/Deseado |
+| Descripción  | El software almacenara el menú de los productos  que se ofrece a la venta (Administrador, Cajero).|
+
+
+| Código | RF6 |
+| ------------- | ------------- |
+| Nombre  | Consulta de Usuarios |
+| Prioridad  | Medio/Deseado |
+| Descripción  | Permitirá a los administradores buscar o listar los usuarios dados de alta en el sistema para manipular (Administrado, Cajero).|
+
+
+
+| Código | RF7 |
+| ------------- | ------------- |
+| Nombre  | Realizar venta |
+| Prioridad  | Alta/Escencial |
+| Descripción  | Al terminar el pedido, se realizara la venta por el producto, el sistema realizara la emisión del importe. Impresión de recibo con datos del usuario +Num de recibo + Detalle de productos+ Total importe|
+
+
+| Código | RF8 |
+| ------------- | ------------- |
+| Nombre  | Generar Reportes desde el sistema |
+| Prioridad  | Alta/Escencial |
+| Descripción  | El sistema debe generar un reporte en excel o .pdf sobre ventas realizadas escogidas en un rango de tiempo por el usuario.|
+
+
+
+
+
+
+
+
+
