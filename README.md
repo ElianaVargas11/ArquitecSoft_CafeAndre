@@ -46,35 +46,35 @@ genere reportes estadísticos de cada producto y de las ventas  realizadas por i
 | ------------- | ------------- |
 | Nombre  | Registro de Usuarios  |
 | Prioridad  | Alta/Escencial |
-| Descripción  | El software almacenara los datos de los usuarios que están autorizados para manipuar (administrado,cajero). |
+| Descripción  | El software almacenara los datos de los usuarios que están autorizados para manipuar (Administrador,Cajero). |
 
 
 | Código | RF3 |
 | ------------- | ------------- |
 | Nombre  | Registro de Ventas  |
 | Prioridad  | Alta/Escencial |
-| Descripción  | Se realizará el registro de las ventas que se realicen por el servicio de preparación de refrigerio, bebida, postres u otros. Se detallara el producto, cantidad y el total. |
+| Descripción  | Se realizará el registro de las ventas que se realicen por el servicio de preparación de refrigerio, bebida, postres u otros. Se detallara código de recibo, fecha, nombre del cliente y el total del importe. |
 
 
 | Código | RF4 |
 | ------------- | ------------- |
 | Nombre  | Registro de Pedido |
 | Prioridad  | Alta/Escencial |
-| Descripción  | El software almacenara el pedido y solicitara el cliente (Administrador, Cajero).Los datos de entrada se ingresara el nombre producto, cantidad y precio.|
+| Descripción  | Los datos de los productos  que consumirá el cliente serán registrados  como pedido.|
 
 
 | Código | RF5 |
 | ------------- | ------------- |
 | Nombre  | Registro de Menu |
 | Prioridad  | Medio/Deseado |
-| Descripción  | El software almacenara el menú de los productos  que se ofrece a la venta (Administrador, Cajero).|
+| Descripción  | El software almacenara el menú que se ofrece con distintos productos, el usuario administrador podrá ir añadiendo.|
 
 
 | Código | RF6 |
 | ------------- | ------------- |
 | Nombre  | Consulta de Usuarios |
 | Prioridad  | Medio/Deseado |
-| Descripción  | Permitirá a los administradores buscar o listar los usuarios dados de alta en el sistema para manipular (Administrado, Cajero).|
+| Descripción  | Permitirá a los administradores registrar, buscar, editar y listar los datos de empleados. |
 
 
 
@@ -82,14 +82,14 @@ genere reportes estadísticos de cada producto y de las ventas  realizadas por i
 | ------------- | ------------- |
 | Nombre  | Realizar venta |
 | Prioridad  | Alta/Escencial |
-| Descripción  | Al terminar el pedido, se realizara la venta por el producto, el sistema realizara la emisión del importe. Impresión de recibo con datos del usuario +Num de recibo + Detalle de productos+ Total importe|
+| Descripción  | Al terminar el pedido, se realizara la venta por el producto, el sistema realizara la emisión del importe.|
 
 
 | Código | RF8 |
 | ------------- | ------------- |
 | Nombre  | Generar Reportes desde el sistema |
 | Prioridad  | Alta/Escencial |
-| Descripción  | El sistema debe generar un reporte en excel o .pdf sobre ventas realizadas escogidas en un rango de tiempo por el usuario.|
+| Descripción  | El sistema debe generar un reporte en Excel o pdf sobre ventas realizadas escogidas en un rango de tiempo por el usuario.|
 
 
 
